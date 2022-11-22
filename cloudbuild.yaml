@@ -5,4 +5,5 @@ steps:
       - run
       - deploy
       - test-app
-      - --source .
+      - --source
+      - .
